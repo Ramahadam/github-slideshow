@@ -12,7 +12,7 @@
   </head>
   <body>
     <h1>Hello, world!</h1>
-
+	  <p class="text-danger">This is a paragraph for danger text</p>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
